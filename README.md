@@ -1,7 +1,7 @@
 # Hack-Zenvia
 Projeto desenvolvido durante o Hack a Rocket
 
-###Para rodar a aplicação:
+##Para rodar a aplicação:
 ```bash
 npm install
 cd zenvia-app
@@ -15,6 +15,6 @@ yarn start
 
 [Pitch]()
 
-###Descrição
+##Descrição
 
 O Facility é uma plataforma de integração e empoderamento para o microempreendedor, onde o mesmo utiliza o Whatts junto com as APIs da Zenvia para melhorar a gestão e organização das entregas recebidas pelo seu estabelecimento trazendo uma melhorar para o seu negocio e para todas as partes envolvidas no processo.
